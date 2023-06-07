@@ -14,5 +14,5 @@ function countNameRepetitions(array){
 const nombres = ["julian", "mario", "pedro", "julian", "juan","mario", "pedro", "julian",]
 const cuentaNombres  = countNameRepetitions(nombres)
 
-console.log(cuentaNombres)
+console.log(cuentaNombres) 
 
