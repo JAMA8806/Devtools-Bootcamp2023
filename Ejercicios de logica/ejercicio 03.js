@@ -2,6 +2,7 @@ function countNameRepetitions(array){
     const cantidad = []
     // console.log(array)
     for (const nombre of array) { 
+        
         if (cantidad[nombre]) {
         cantidad[nombre] = cantidad[nombre] + `${"*"}` 
         console.log(cantidad)  

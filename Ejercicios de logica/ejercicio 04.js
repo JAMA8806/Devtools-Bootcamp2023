@@ -25,5 +25,6 @@ function fizzBuzz(n) {
     return numero
 }
 
+
 let juego = [fizzBuzz(15)]
 console.log(juego)
