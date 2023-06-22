@@ -32,6 +32,6 @@ function drawX(tamaño) {
 
 
 
-  console.log(drawX(8));
+  console.log(drawX(11));
   
 
